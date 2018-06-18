@@ -10,6 +10,7 @@ This is a simple BookMark Explorer that is capable of storing and visualising a 
 * [JSTree](https://www.jstree.com) - Library used to visualise the hierarchy.
 * [MySQL](https://www.mysql.com) - Persistence & Backend.
 * [Javascript](https://www.javascript.com) - Responsive UI. 
+* [Bootstrap 3](http://getbootstrap.com/docs/3.3/) - User Interface & Visuals. 
 
 
 ## Outstanding
