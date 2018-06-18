@@ -5,8 +5,14 @@ This is a simple BookMark Explorer that is capable of storing and visualising a 
 
 ## Built With
 
-* [Gradle](https://gradle.org) - Dependency Management
-* [Spring MVC](https://spring.io) - Web Framework
-* [MySQL](https://www.mysql.com) - Persistence & Backend
+* [Gradle](https://gradle.org) - Dependency Management.
+* [Spring MVC](https://spring.io) - Web Framework.
+* [JSTree](https://www.jstree.com) - Library used to visualise the hierarchy.
+* [MySQL](https://www.mysql.com) - Persistence & Backend.
+* [Javascript](https://www.javascript.com) - Responsive UI. 
 
 
+## Oustanding
+
+- [ ] Complete implementation of JSTree library for visualisation.
+- [ ] Small visual tweaks with appearance on front-end.
