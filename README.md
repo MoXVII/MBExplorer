@@ -12,7 +12,7 @@ This is a simple BookMark Explorer that is capable of storing and visualising a 
 * [Javascript](https://www.javascript.com) - Responsive UI. 
 
 
-## Oustanding
+## Outstanding
 
 - [ ] Complete implementation of JSTree library for visualisation.
 - [ ] Small visual tweaks with appearance on front-end.
